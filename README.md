@@ -36,4 +36,4 @@ logistic regression , decision tree , random forest and xgboost
 
 5. Tune the hyperparameter :  gridsearch to find the max_depth, n_estimators values
 
-6. StritifiedKFold to evaluate the models 
+6. StratifiedKFold to evaluate the models 
