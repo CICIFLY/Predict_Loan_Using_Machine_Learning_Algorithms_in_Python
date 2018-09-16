@@ -1,4 +1,4 @@
-Data Science Project 1 : Loan Prediction
+Data Science Project 1 : Loan Prediction( based on project from Analytics Vidhya)
 
 Train_file_loan.csv and test_file_loan.csv are the data source files. ( The data has 615 rows and 13 columns)
 The png files are for data visualization
