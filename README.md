@@ -29,4 +29,4 @@ StratifiedKFold to evaluate the models
 
 ### Results: logistic regression has the highest accuracy 0.812
 
-### Reference : Data Science Project 1 : Loan Prediction( based on project from Analytics Vidhya)
+### Reference : This project is based on project from Analytics Vidhya. 
